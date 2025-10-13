@@ -1,4 +1,4 @@
-🎓 Mechanical Engineer with passion for aerospace and advanced composite structures. Currently working as Structural Engineer in the Plant Engineering Team at Airbus. I created this space to share my projects and my developments.
+Mechanical Engineer with passion for aerospace and advanced composite structures. Currently working as Structural Engineer in the Plant Engineering Team at Airbus. I created this space to share my projects and my developments.
 
 🚀 About Me
 - 🛠️ Experience in structural design & analysis of metallic and composite components
@@ -22,7 +22,7 @@
 
 🧰 Tech Stack
 - CAD: CATIA V5, Siemens NX, PTC Creo
-- FEA: Abaqus, LS-DYNA, Ansys, Hyperworks
+- FEA: Abaqus, Ansys, Hyperworks
 - Programming: Python (pandas, matplotlib), GT-Suite
 - Simulation: FEM, crash, fatigue, impact, buckling, optimization
 - Tools: Git, Excel, OpenLCA, SAP, PASS

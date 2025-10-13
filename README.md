@@ -1,4 +1,6 @@
-Mechanical Engineer with passion for aerospace and advanced composite structures. Currently working as Structural Engineer in the Plant Engineering Team at Airbus. I created this space to share my projects and my developments.
+Hello,
+
+I am a Mechanical Engineer, who is interested in aerospace and advanced composite structures. Currently working as Structural Engineer in the Plant Engineering Team at Airbus. I created this space to share my projects and my developments.
 
 🚀 About Me
 - 🛠️ Experience in structural design & analysis of metallic and composite components

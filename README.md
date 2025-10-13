@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Alessandro Acuna and I am a Mechanical Engineer who is currently working as Structural Engineer in Airbus.
+
+
 <!--
 **AlessandroAcuna/AlessandroAcuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

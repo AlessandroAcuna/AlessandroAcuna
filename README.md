@@ -20,12 +20,12 @@ Mechanical Engineer with passion for aerospace and advanced composite structures
 - 🔬 Former researcher at DLR – German Aerospace Center for sustainable composites
 - 📘 Erasmus in Aerospace Engineering – Universität Stuttgart
 
-🧰 Tech Stack
+🧰 Skills
 - CAD: CATIA V5, Siemens NX, PTC Creo
 - FEA: Abaqus, Ansys, Hyperworks
 - Programming: Python (pandas, matplotlib), GT-Suite
 - Simulation: FEM, crash, fatigue, impact, buckling, optimization
-- Tools: Git, Excel, OpenLCA, SAP, PASS
+- Tools: Excel, OpenLCA, SAP, PASS
 <!--
 **AlessandroAcuna/AlessandroAcuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
